@@ -1,6 +1,6 @@
-# CloudFlex Weather App
+#Weather App
 
-CloudFlex Weather App is a simple web application that allows users to check the current weather conditions of any location worldwide.
+Weather App is a simple web application that allows users to check the current weather conditions of any location worldwide.
 
 ## Table of Contents
 
@@ -32,4 +32,4 @@ CloudFlex Weather App is a simple web application that allows users to check the
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/ahmedreyan/CloudFlex-Weather-App.git
+   git clone https://github.com/ahmedreyan/Weather-App.git
