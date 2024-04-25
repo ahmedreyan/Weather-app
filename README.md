@@ -18,7 +18,7 @@ CloudFlex Weather App is a simple web application that allows users to check the
 
 ## Demo
 
-![CloudFlex Weather App Demo](demo.jpg)
+![CloudFlex Weather App Demo](demo.JPG)
 
 ## Technologies Used
 
